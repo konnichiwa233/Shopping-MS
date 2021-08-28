@@ -24,7 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-![image-20210827163900864](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210827163900864.png)
+![image](https://raw.githubusercontent.com/konnichiwa233/Shopping-MS/master/projectImg/Snipaste_2021-08-27_17-02-52.png)
 
 
 
